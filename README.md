@@ -47,8 +47,8 @@ This project was built with inspiration and guidance from several excellent tuto
 ---
 
 ## 👥 Authors
-- **Your Name** – *Project Developer*  
-  GitHub: [@yourusername](https://github.com/yourusername)
+-Aymar y Juan Pablo–   
+  GitHub: [@aymaaaar](https://github.com/aymaaaar)
 
 ---
 
