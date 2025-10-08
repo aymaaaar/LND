@@ -1,0 +1,35 @@
+<!DOCTYPE clubs SYSTEM "football_league.dtd">
+<clubs>
+    <club>
+        <name>Chelsea FC</name>
+        <year_of_foundation>1905</year_of_foundation>
+        <Last_trophie>Club World Cup 2025</Last_trophie>
+        <best_player>Cole Palmer</best_player>
+        <legend>Frank Lampard</legend>
+        <total_trophies>35</total_trophies>
+    </club>
+    <club>
+        <name>Liverpool FC</name>
+        <year_of_foundation>1892</year_of_foundation>
+        <Last_trophie>Premier League 24/25</Last_trophie>
+        <best_player>Mohamed Salah</best_player>
+        <legend>Steven Gerrard</legend>
+        <total_trophies>68</total_trophies>        
+    </club>
+    <club>
+        <name>Manchester United FC</name>
+        <year_of_foundation>1878</year_of_foundation>
+        <Last_trophie>Emirates FA Cup 2024</Last_trophie>
+        <best_player>Bruno Fernandes</best_player>
+        <legend>Wayne Rooney</legend>
+        <total_trophies>68</total_trophies>        
+    </club>
+    <club>
+        <name>Manchester City FC</name>
+        <year_of_foundation>1895</year_of_foundation>
+        <Last_trophie>Premier League 23/24</Last_trophie>
+        <best_player>Erling Braut Haaland</best_player>
+        <legend>Kevin de Bruyne</legend>
+        <total_trophies>20</total_trophies>        
+    </club>
+</clubs>

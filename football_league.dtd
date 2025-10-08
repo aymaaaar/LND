@@ -1,0 +1,8 @@
+<!ELEMENT clubs (club*)>
+<!ELEMENT club (name, year_of_foundation, Last_trophie, best_player, legend, total_trophies)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT year_of_foundation (#PCDATA)>
+<!ELEMENT best_player (#PCDATA)>
+<!ELEMENT legend (#PCDATA)>
+<!ELEMENT total_trophies (#PCDATA)>
+<!ELEMENT Last_trophie (#PCDATA)>
